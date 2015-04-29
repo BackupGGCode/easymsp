@@ -18,11 +18,11 @@ Version 2 on it's way.<br>
 
 <a href='http://code.google.com/p/easymsp/wiki/Donate'><img src='https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif' /></a>
 
-<a href='http://www.43oh.com/'><img src='http://easymsp.googlecode.com/git-history/master/resources/images/43oh_logo_med.png' /></a>
+<a href='http://www.43oh.com/'><img src='https://raw.githubusercontent.com/BackupGGCode/easymsp/master/resources/images/43oh_logo_med.png' /></a>
 
 <a href='http://olimex.com/'><img src='http://olimex.com/dev/images/logo.gif' /></a>
 
-<a href='http://freedomdefined.org/OSHW'><img src='http://easymsp.googlecode.com/git-history/master/resources/images/oshw-logo-200-px.png' /></a>
+<a href='http://freedomdefined.org/OSHW'><img src='https://raw.githubusercontent.com/BackupGGCode/easymsp/master/resources/images/oshw-logo-200-px.png' /></a>
 
 
 </td>
