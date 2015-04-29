@@ -16,8 +16,6 @@ Version 2 on it's way.<br>
 <br>
 <hr />
 
-<a href='http://code.google.com/p/easymsp/wiki/Donate'><img src='https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif' /></a>
-
 <a href='http://www.43oh.com/'><img src='https://raw.githubusercontent.com/BackupGGCode/easymsp/master/resources/images/43oh_logo_med.png' /></a>
 
 <a href='http://olimex.com/'><img src='http://olimex.com/dev/images/logo.gif' /></a>
